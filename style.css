@@ -1,0 +1,16 @@
+html{
+    background-color: rgb(0, 0, 0);
+    color: rgb(21, 255, 0);
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 2000;
+    font-style: normal;
+    
+    text-align: center;
+}
+a:link{
+    color:rgb(255, 0, 34)
+}
+a:visited{
+    color:deeppink
+}
