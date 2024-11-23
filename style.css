@@ -1,6 +1,7 @@
 html{
-    background-color: rgb(0, 0, 0);
-    color: rgb(21, 255, 0);
+    background-image: url("https://lh3.googleusercontent.com/proxy/Kt4N_jv0gmNBTbBRXqrnzMDivJJLTDVInElXhL6vKFtFUpdZ6r3cfjs_ac7ciL2pf98pEQVNGKL5GUrQE6SNilcupBwJ7wI9F2fZLP2bjXnf_tw9PrTqmlpNRL1K7wvaG7ePF23zfoGHSmBqAWTY4HF4f9FBCVX1");
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: "Lexend", sans-serif;
     font-optical-sizing: auto;
     font-weight: 2000;
@@ -12,5 +13,23 @@ a:link{
     color:rgb(255, 0, 34)
 }
 a:visited{
-    color:deeppink
+    color:rgb(152, 101, 235)
+}
+h1,h2{
+    color: rgb(21, 255, 0);
+}
+p{
+    color:rgb(224, 194, 56) 
+}
+#container{
+    padding: 24px;
+    background-color: rgba(0, 0, 0, 0.712);
+    border-radius: 24px;
+    width:fit-content;
+    margin-inline: auto;
+    backdrop-filter: blur(24px);
+    
+}
+#instagram-link{
+    color: rgb(0, 225, 255);
 }
